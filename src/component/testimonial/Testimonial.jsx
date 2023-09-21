@@ -1,11 +1,13 @@
-import React from 'react'
+import React from "react";
+import "../testimonial/testimonial.css";
+import PORT from "../testimonial/image/migos.jpg";
 
 function Testimonial() {
   return (
-    <div>
-      
-    </div>
-  )
+    <section id="testimonial">
+   
+    </section>
+  );
 }
 
-export default Testimonial
+export default Testimonial;
